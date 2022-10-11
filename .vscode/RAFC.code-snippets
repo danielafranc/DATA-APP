@@ -1,0 +1,16 @@
+{
+	"Crear un rafc": {
+		"prefix": "rafc",
+		"body": [
+		   "import React from 'react';",
+		   "",
+		   "    const  ${1:template}  = () => {",
+		   "     return(",
+		   "      <div></div>",
+			   ")",
+			   "}",
+		   "export default ${1:template}",
+		],
+		"description": "Crear un snippet de React"
+	}
+}
